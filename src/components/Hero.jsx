@@ -23,7 +23,7 @@ const Hero = () => {
       
       <div className={`${styles.heroHeadText} flex flex-col text-white`}>
       <div className="">
-        <h1>Hi,I&apos;m <span className='text-[#915eff]'>Rohan</span></h1>
+        <h1>Hi,I&apos;m <span className='text-[#915eff]'>Nishant Kumar Gupta</span></h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I develop websites <br className='sm:block hidden' /> and web applications
         </p>

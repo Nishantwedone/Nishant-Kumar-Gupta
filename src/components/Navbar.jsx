@@ -30,7 +30,7 @@ const Navbar = () => {
           }>
           <img src={logo} alt="logo"  className='w-15 h-9 object-contain' />
           <p className='text-white flex text-[18px] font-bold cursor-pointer'>
-          Nishant Kumar Gupta&nbsp;<span className='sm:block hidden'>|&nbsp;Web Developer
+          Nishant  Gupta&nbsp;<span className='sm:block hidden'>|&nbsp;Web Developer
           </span>
 
           </p>
