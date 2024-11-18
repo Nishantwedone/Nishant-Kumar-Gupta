@@ -34,7 +34,7 @@ import rightlabs from './tech/rightlabs.png';
 import letschat from './letschat.png';
 import ghumantu from './ghumantu.png';
 import todolist from './todolist.png';
-import rohanPortfolio from './rohanPortfolio.png';
+import rohanPort from './rohanPort.png';
 import celebal_logo from './tech/celebal-logo.png'
 import carepulse from './carepulse.png'
 
@@ -42,7 +42,7 @@ export {
   logo,
   backend,
   creator,
-  rohanPortfolio,
+  rohanPort,
   ghumantu,
   mobile,
   rightlabs,

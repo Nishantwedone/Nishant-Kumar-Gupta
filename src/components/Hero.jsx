@@ -1,7 +1,7 @@
 import {motion} from 'framer-motion';
 import { styles } from '../styles';
 // import { EarthCanvas, StarsCanvas} from './canvas';
-import rohanHero from '../assets/rkt-logo/rohanImg.png';
+import rohanHero from '../assets/rkt-logo/NishantImg.png';
 import {   slideIn } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 
@@ -30,17 +30,17 @@ const Hero = () => {
         </div>
         <div className=" flex gap-4 align-middle mt-4">
         <i onClick={()=>{
-          window.open("https://www.linkedin.com/in/rohan-kumar-tailor-1ba064220");
+          window.open("https://www.linkedin.com/in/nishant-kumar-gupta-54b501257/");
         }} className="border-2 border-cyan-300 cursor-pointer text-cyan-300 text-[30px] hover:bg-cyan-300  hover:text-black p-2 rounded-full fa-brands fa-linkedin"></i>
         <i onClick={()=>{
           window.open("https://github.com/Nishantwedone");
         }} className="border-2 border-cyan-300 cursor-pointer text-cyan-300 text-[30px] hover:bg-cyan-300  hover:text-black p-2 rounded-full fa-brands fa-github"></i>
         <i onClick={()=>{
-          window.open("https://www.instagram.com/rohan_8320/");
+          window.open("https://www.instagram.com/nishant_gupta_001/");
         }} className="border-2 border-cyan-300 cursor-pointer text-cyan-300 text-[30px] hover:bg-cyan-300  hover:text-black p-2 rounded-full fa-brands fa-instagram"/>
         <i onClick={()=>{
-          window.open("https://x.com/Rohan8320?t=KpX0evcPp_OYIbwp069-fw&s=08");
-        }} className="border-2 border-cyan-300 cursor-pointer text-cyan-300 text-[28px] hover:bg-cyan-300  hover:text-black p-2 rounded-full fa-brands fa-x-twitter"></i>
+          window.open("https://leetcode.com/u/Nishantkumargupta26/");
+        }} className="border-2 border-cyan-300 cursor-pointer text-cyan-300 text-[28px] hover:bg-cyan-300  hover:text-black p-2 rounded-full fa-brands fa-codepen"></i>
         </div>
       </div>
 
@@ -53,7 +53,7 @@ const Hero = () => {
         
         <motion.img
        src={rohanHero} 
-       className='md:h-[470px] md:w-[470px] h-[300px] w-[300px]'
+       className='md:h-[470px] md:w-[470px] h-[300px] w-[300px] rounded-full'
       alt="Floating Image"
       animate={{
             y:[0,24,0],
