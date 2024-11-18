@@ -30,12 +30,12 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import python from "./tech/python.png";
-import rightlabs from './tech/rightlabs.png';
+import upflairs from './tech/upflairs.png';
 import letschat from './letschat.png';
 import ghumantu from './ghumantu.png';
 import todolist from './todolist.png';
 import rohanPort from './rohanPort.png';
-import celebal_logo from './tech/celebal-logo.png'
+import titagarh_logo from './tech/titagarh.png'
 import carepulse from './carepulse.png'
 
 export {
@@ -45,11 +45,11 @@ export {
   rohanPort,
   ghumantu,
   mobile,
-  rightlabs,
+  upflairs,
   todolist,
   web,
   carepulse,
-  celebal_logo,
+  titagarh_logo,
   github,
   letschat,
   menu,

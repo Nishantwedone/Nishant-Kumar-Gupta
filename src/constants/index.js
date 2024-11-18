@@ -13,13 +13,13 @@ import {
     nodejs,
     mongodb,
     git,
-    rightlabs,
+    upflairs,
     bootstrap,
     postmanapi,
     chakara,
     letschat,
     ghumantu,
-    celebal_logo,
+    titagarh_logo,
     carepulse,
   } from "../assets";
 
@@ -114,11 +114,11 @@ import {
   
   const experiences = [
     {
-      title: "Celebal Summer Intern",
-      company_name: "Celebal Technology",
-      icon: celebal_logo,
+      title: "Titagarh Summer Intern",
+      company_name: "Titagarh Rail Ltmd.",
+      icon: titagarh_logo,
       iconBg: "#383E56",
-      date: "June 2024 - July 2024",
+      date: "July 2024 - August 2024",
       points: [
         "Completed intensive coursework on Node.js, focusing on Express and Node modules.",
         "Developed RESTful APIs, utilizing best practices for database integration and data management.",
@@ -128,10 +128,10 @@ import {
     },
     {
       title: "Frontend Developer Intern",
-      company_name: "RightLabs",
-      icon: rightlabs,
+      company_name: "Upflairs Technologies",
+      icon: upflairs,
       iconBg: "#383E56",
-      date: "July 2023 - August 2023",
+      date: "May 2023 - June 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
