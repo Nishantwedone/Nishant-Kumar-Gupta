@@ -4,8 +4,6 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-import menu from "./menu.svg";
-import close from "./close.svg";
 import postmanapi from "./tech/postmanapi.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -21,20 +19,12 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import chakara from "./tech/chakara.png";
-// import meta from "./company/meta.png";
-// import shopify from "./company/shopify.png";
-// import starbucks from "./company/starbucks.png";
-// import tesla from "./company/tesla.png";
 import bootstrap from "./tech/bootstrap.png";
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import python from "./tech/python.png";
 import upflairs from './tech/upflairs.png';
 import railcorp from './railcorp.png';
 import rejouice from './rejouice.png';
-import todolist from './todolist.png';
-import rohanPort from './rohanPort.png';
+import nishant from './nishant.png';
 import titagarh_logo from './tech/titagarh.png'
 import ochi from './ochi.png'
 
@@ -42,18 +32,15 @@ export {
   logo,
   backend,
   creator,
-  rohanPort,
+  nishant,
   rejouice,
   mobile,
   upflairs,
-  todolist,
   web,
   ochi,
   titagarh_logo,
   github,
   railcorp,
-  menu,
-  close,
   chakara,
   postmanapi,
   python,
@@ -71,11 +58,4 @@ export {
   tailwind,
   typescript,
   threejs,
-  // meta,
-  // shopify,
-  // starbucks,
-  // tesla,
-  carrent,
-  jobit,
-  tripguide,
 };

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { styles } from '../styles'
 import logo from '../assets/logo/svg/logo-no-background.svg'
 import {navLinks} from '../constants/index'
-import {menu,close} from '../assets'
+// import {menu,close} from '../assets'
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -47,13 +47,13 @@ const Navbar = () => {
           </ul>
 
           <div className='sm:hidden flex flex-1 justify-end items-center'>
-              <img
+              {/* <img
               src={toggle ? close : menu }
               alt="menu"
               className='w-[28px] h-[28px]
                object-contain cursor-pointer'
               onClick={() => setToggle(!toggle)}
-              />
+              /> */}
 
               <div className={`${!toggle ? 'hidden':
               'flex'} p-6 black-gradient absolute top-20 right-0 mx-2
