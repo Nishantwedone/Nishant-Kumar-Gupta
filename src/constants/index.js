@@ -17,10 +17,10 @@ import {
     bootstrap,
     postmanapi,
     chakara,
-    letschat,
-    ghumantu,
+    railcorp,
+    rejouice,
     titagarh_logo,
-    carepulse,
+    ochi,
   } from "../assets";
 
 
@@ -170,16 +170,16 @@ import {
   
   const projects = [
     {
-    name: "Care Pulse",
+    name: "Ochi",
     description:
-      "CarePulse is a healthcare-focused application to facilitate appointment scheduling and management.Integrated Twilio for automated SMS notifications, enhancing appointment confirmations and cancellation.",
+      "Ochi is a modern animated website with the use of framer motion and GSAP animations. This have a smooth scrolling effect and the pointer effect also.",
     tags: [
       {
-        name: "NextJs14",
+        name: "Framer Motion",
         color: "blue-text-gradient",
       },
       {
-        name: "Typescript",
+        name: "GSAP",
         color: "green-text-gradient",
       },
       {
@@ -187,21 +187,21 @@ import {
         color: "pink-text-gradient",
       },
       {
-        name: "TailwindCss",
+        name: "Animations",
         color: "green-text-gradient",
       },
     ],
-    image: carepulse,
-    source_code_link: "https://github.com/Rohan7690/carePulse",
-    live_link:'https://care-pulse-otss1act6-rohan7690s-projects.vercel.app/',
+    image: ochi,
+    source_code_link: "https://github.com/Nishantwedone/ochi",
+    live_link:'https://ochi-green.vercel.app',
   },
     {
-      name: "Lets Chat Web App",
+      name: "Rail Corp Lmtd.",
       description:
-        "A Real-time chat web application offering one-on-one and group chat experiences . With user authentication to enhance data security, including user registration and login. Created API which can manage fronted requests and provide data from backend.",
+        "Rail corp is a ecommerce site for the railway related materials. In that Admin Dashboard is availabe, also the add to cart function. Admin can also create and manage the products.",
       tags: [
         {
-          name: "react",
+          name: "Nextjs",
           color: "blue-text-gradient",
         },
         {
@@ -209,43 +209,47 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "chakara UI",
+          name: "Admin Dashboard",
           color: "pink-text-gradient",
         },
         {
-          name: "express js",
+          name: "Add to cart",
           color: "green-text-gradient",
         },
         {
-          name: "Socket.io",
+          name: "Bcrypt",
           color: "blue-text-gradient",
         },
       ],
-      image: letschat,
-      source_code_link: "https://github.com/Rohan7690/LetsChat-Deploy",
-      live_link:'https://letschat-bg1b.onrender.com/',
+      image: railcorp,
+      source_code_link: "https://github.com/Nishantwedone/RailCorp",
+      live_link:'https://rail-corp.vercel.app',
     },
     {
-      name: "Ghumantu Website",
+      name: "Rejouice",
       description:
-        "Developed the website's UI using Chakra UI framework, ensuring an intuitive user experience.Ensured full responsiveness across various devices and screen sizes for broad accessibility.Utilized Git/GitHub for version control, allowing for efficient code management and collaboratio",
+        "Rejouice is clone project. It is made using html,css,js and with amazing modern animated effects, gsap and also it have smooth scrolling effect.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "chakara UI",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "fade aos",
+          name: "Javascript",
           color: "pink-text-gradient",
         },
+        {
+          name: "Aniamtions with GSAP",
+          color: "blue-text-gradient",
+        },
       ],
-      image: ghumantu,
-      source_code_link: "https://github.com/Rohan7690/ghumantu-landing",
-      live_link:'https://ghumantu-landing.vercel.app/',
+      image: rejouice,
+      source_code_link: "https://github.com/Nishantwedone/Rejouice-Clone",
+      live_link:'https://rejouice-clone-kappa.vercel.app/',
     },
     
   ];

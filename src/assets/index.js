@@ -31,27 +31,27 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import python from "./tech/python.png";
 import upflairs from './tech/upflairs.png';
-import letschat from './letschat.png';
-import ghumantu from './ghumantu.png';
+import railcorp from './railcorp.png';
+import rejouice from './rejouice.png';
 import todolist from './todolist.png';
 import rohanPort from './rohanPort.png';
 import titagarh_logo from './tech/titagarh.png'
-import carepulse from './carepulse.png'
+import ochi from './ochi.png'
 
 export {
   logo,
   backend,
   creator,
   rohanPort,
-  ghumantu,
+  rejouice,
   mobile,
   upflairs,
   todolist,
   web,
-  carepulse,
+  ochi,
   titagarh_logo,
   github,
-  letschat,
+  railcorp,
   menu,
   close,
   chakara,
