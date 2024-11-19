@@ -53896,7 +53896,7 @@
       ]
     },
     {
-      "name": "NVIDIA LOGO_NVIDIA LOGO_0",
+      "name": "NVIDIA rkt-logo_NVIDIA rkt-logo_0",
       "primitives": [
         {
           "attributes": {
@@ -54391,7 +54391,7 @@
       ]
     },
     {
-      "name": "aorus logotranspa_aorus logotranspa_0",
+      "name": "aorus rkt-logotranspa_aorus rkt-logotranspa_0",
       "primitives": [
         {
           "attributes": {
@@ -54781,7 +54781,7 @@
       ]
     },
     {
-      "name": "Color-PewDiePie-Logo_Color-PewDiePie-Logo_0",
+      "name": "Color-PewDiePie-rkt-logo_Color-PewDiePie-rkt-logo_0",
       "primitives": [
         {
           "attributes": {
@@ -55126,7 +55126,7 @@
       ]
     },
     {
-      "name": "gigabyte-logo_gigabyte-logo_0",
+      "name": "gigabyte-rkt-logo_gigabyte-rkt-logo_0",
       "primitives": [
         {
           "attributes": {
@@ -55141,7 +55141,7 @@
       ]
     },
     {
-      "name": "gigabyte-logo.001_gigabyte-logo_0",
+      "name": "gigabyte-rkt-logo.001_gigabyte-rkt-logo_0",
       "primitives": [
         {
           "attributes": {
@@ -66601,11 +66601,11 @@
         -289.065673828125,
         1.0
       ],
-      "name": "NVIDIA LOGO"
+      "name": "NVIDIA rkt-logo"
     },
     {
       "mesh": 61,
-      "name": "NVIDIA LOGO_NVIDIA LOGO_0"
+      "name": "NVIDIA rkt-logo_NVIDIA rkt-logo_0"
     },
     {
       "children": [
@@ -67525,11 +67525,11 @@
         -315.8466491699219,
         1.0
       ],
-      "name": "aorus logotranspa"
+      "name": "aorus rkt-logotranspa"
     },
     {
       "mesh": 94,
-      "name": "aorus logotranspa_aorus logotranspa_0"
+      "name": "aorus rkt-logotranspa_aorus rkt-logotranspa_0"
     },
     {
       "children": [
@@ -68253,11 +68253,11 @@
         -27.47589683532715,
         1.0
       ],
-      "name": "Color-PewDiePie-Logo"
+      "name": "Color-PewDiePie-rkt-logo"
     },
     {
       "mesh": 120,
-      "name": "Color-PewDiePie-Logo_Color-PewDiePie-Logo_0"
+      "name": "Color-PewDiePie-rkt-logo_Color-PewDiePie-rkt-logo_0"
     },
     {
       "children": [
@@ -68897,11 +68897,11 @@
         82.0821533203125,
         1.0
       ],
-      "name": "gigabyte-logo"
+      "name": "gigabyte-rkt-logo"
     },
     {
       "mesh": 143,
-      "name": "gigabyte-logo_gigabyte-logo_0"
+      "name": "gigabyte-rkt-logo_gigabyte-rkt-logo_0"
     },
     {
       "children": [
@@ -68925,11 +68925,11 @@
         301.5984191894531,
         1.0
       ],
-      "name": "gigabyte-logo.001"
+      "name": "gigabyte-rkt-logo.001"
     },
     {
       "mesh": 144,
-      "name": "gigabyte-logo.001_gigabyte-logo_0"
+      "name": "gigabyte-rkt-logo.001_gigabyte-rkt-logo_0"
     },
     {
       "children": [

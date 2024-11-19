@@ -1,7 +1,7 @@
 import {motion} from 'framer-motion';
 import { styles } from '../styles';
 // import { EarthCanvas, StarsCanvas} from './canvas';
-import rohanHero from '../assets/rkt-logo/NishantImg.png';
+import rohanHero from '../assets/logo/NishantImg.png';
 import {   slideIn } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 

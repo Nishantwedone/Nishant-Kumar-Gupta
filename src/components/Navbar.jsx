@@ -1,7 +1,7 @@
 import {useEffect, useState} from 'react'
 import { Link } from 'react-router-dom'
 import { styles } from '../styles'
-import logo from '../assets/rkt-logo/svg/logo-no-background.svg'
+import logo from '../assets/logo/svg/logo-no-background.svg'
 import {navLinks} from '../constants/index'
 import {menu,close} from '../assets'
 const Navbar = () => {
