@@ -22,11 +22,11 @@ import chakara from "./tech/chakara.png";
 import bootstrap from "./tech/bootstrap.png";
 import python from "./tech/python.png";
 import upflairs from './tech/upflairs.png';
+import titagarh_logo from './tech/titagarh.png';
 import railcorp from './railcorp.png';
 import rejouice from './rejouice.png';
-import nishant from './nishant.png';
-import titagarh_logo from './tech/titagarh.png';
 import ochi from './ochi.png';
+import nishant from './nishant.png';
 
 export {
   logo,

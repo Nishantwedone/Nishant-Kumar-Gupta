@@ -21,7 +21,7 @@ import {
     rejouice,
     titagarh_logo,
     ochi,
-  } from "../assets";
+  } from "../assets/index.js";
 
 
   export const navLinks = [
