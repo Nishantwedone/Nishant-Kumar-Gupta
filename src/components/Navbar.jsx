@@ -4,6 +4,7 @@ import { styles } from '../styles'
 import logo from '../assets/logo/svg/logo-no-background.svg'
 import {navLinks} from '../constants/index'
 // import {menu,close} from '../assets'
+
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -43,7 +44,6 @@ const Navbar = () => {
               <a href={`#${link.id}`}>{link.title}</a>
             </li>
           ))}
-  
           </ul>
 
           <div className='sm:hidden flex flex-1 justify-end items-center'>
@@ -59,7 +59,6 @@ const Navbar = () => {
               'flex'} p-6 black-gradient absolute top-20 right-0 mx-2
               min-w-[140px] z-10 rounded-xl`}>
                 <ul className='list-none flex justify-end items-start flex-col gap-4'>
-
                   {navLinks.map((link)=>(
                     <li key={link.id}
                     className={`${active === link.title ? "text-white" : "text-secondary"}
@@ -72,7 +71,8 @@ const Navbar = () => {
                       }
                     }
                     >
-                      <a href={`#${link.id}`}>{link.title}</a>
+                      {/* navbar about, contact, etc. */}
+                        <a href={`#${link.id}`}>{link.title} </a>
                     </li>
                   ))}
 
