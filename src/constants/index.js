@@ -1,4 +1,3 @@
-
 import {
     mobile,
     backend,
@@ -21,7 +20,7 @@ import {
     rejouice,
     titagarh_logo,
     ochi,
-  } from "../assets/index.js";
+  } from "../assets";
 
 
   export const navLinks = [

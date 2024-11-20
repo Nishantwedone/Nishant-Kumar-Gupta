@@ -25,7 +25,7 @@ import upflairs from './tech/upflairs.png';
 import titagarh_logo from './tech/titagarh.png';
 import railcorp from './railcorp.png';
 import rejouice from './rejouice.png';
-import ochi from './ochi.png';
+import ochi from "./ochi.png";
 import nishant from './nishant.png';
 
 export {
