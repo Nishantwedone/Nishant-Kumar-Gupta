@@ -20,6 +20,7 @@ const Home = () => {
       <Experience />
       <Tech />
       <Works />
+      {/* this is use for testimonal */}
       {/* <Feedbacks /> */}
       <div className='relative z-0 '>
         <Contact />
